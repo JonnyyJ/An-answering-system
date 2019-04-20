@@ -8,4 +8,18 @@ export default{
         state.itemNum += num;
     },
     //record the answer
+    [REMBER_ANSWER](state, id){
+        state.answerid.push(id);
+    },
+    [REMBER_TIME](state) {
+		state.timer = setInterval(() => {
+			state.allTime++;
+		}, 1000)
+	},
+	//intialization
+	[INITIALIZE_DATA](state) {
+		state.itemNum = 1;
+		state.allTime = 0;
+		state.answerid = [];
+	},
 }
