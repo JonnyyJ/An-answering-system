@@ -24,7 +24,7 @@ const state = {
 		"topic_answer": [{
 			"topic_answer_id": 9,
 			"topic_id": 21,
-			"answer_name": "测试A",
+			"answer_name": "testA",
 			"is_standard_answer": 1
 		}, {
 			"topic_answer_id": 10,
@@ -39,69 +39,69 @@ const state = {
 		}, {
 			"topic_answer_id": 12,
 			"topic_id": 21,
-			"answer_name": "正确答案",
+			"answer_name": "right answer",
 			"is_standard_answer": 0
 		}]
 	}, {
 		"topic_id": 21,
 		"active_topic_id": 4,
 		"type": "MORE",
-		"topic_name": "题目四",
+		"topic_name": "question 4",
 		"active_id": 1,
-		"active_title": "欢乐星期五标题",
-		"active_topic_phase": "第一周",
+		"active_title": "happy friday title",
+		"active_topic_phase": "The first week",
 		"active_start_time": "1479139200",
 		"active_end_time": "1482163200",
 		"topic_answer": [{
 			"topic_answer_id": 13,
 			"topic_id": 21,
-			"answer_name": "正确答案",
+			"answer_name": "right answer",
 			"is_standard_answer": 1
 		}, {
 			"topic_answer_id": 14,
 			"topic_id": 21,
-			"answer_name": "A是错的",
+			"answer_name": "A was wrong",
 			"is_standard_answer": 0
 		}, {
 			"topic_answer_id": 15,
 			"topic_id": 21,
-			"answer_name": "D是对的",
+			"answer_name": "D was right",
 			"is_standard_answer": 0
 		}, {
 			"topic_answer_id": 16,
 			"topic_id": 21,
-			"answer_name": "C说的不对",
+			"answer_name": "C was not right",
 			"is_standard_answer": 0
 		}]
 	}, {
 		"topic_id": 21,
 		"active_topic_id": 4,
 		"type": "MORE",
-		"topic_name": "题目五",
+		"topic_name": "question 5",
 		"active_id": 1,
-		"active_title": "欢乐星期五标题",
-		"active_topic_phase": "第一周",
+		"active_title": "happy friday title",
+		"active_topic_phase": "the first week",
 		"active_start_time": "1479139200",
 		"active_end_time": "1482163200",
 		"topic_answer": [{
 			"topic_answer_id": 17,
 			"topic_id": 21,
-			"answer_name": "错误答案",
+			"answer_name": "wrong answer",
 			"is_standard_answer": 1
 		}, {
 			"topic_answer_id": 18,
 			"topic_id": 21,
-			"answer_name": "正确答案",
+			"answer_name": "right answer",
 			"is_standard_answer": 0
 		}, {
 			"topic_answer_id": 19,
 			"topic_id": 21,
-			"answer_name": "错误答案",
+			"answer_name": "wrong answer",
 			"is_standard_answer": 0
 		}, {
 			"topic_answer_id": 20,
 			"topic_id": 21,
-			"answer_name": "错误答案",
+			"answer_name": "wrong answer",
 			"is_standard_answer": 0
 		}]
 	}],
